@@ -114,4 +114,4 @@ Error generating stack: `+o.message+`
       padding: 0 20px;
     }
   }
-`;function D0(){return ue.jsx(ue.Fragment,{children:ue.jsx(A0,{})})}Yo.createRoot(document.getElementById("/root")).render(ue.jsx(D0,{}));
+`;function D0(){return ue.jsx(ue.Fragment,{children:ue.jsx(A0,{})})}Yo.createRoot(document.getElementById("root")).render(ue.jsx(D0,{}));
